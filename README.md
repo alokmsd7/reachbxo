@@ -150,9 +150,4 @@ Response:
 
 ## Some View
 
- <img src="assets/Screenshot (370).png">
-
- <img src="assets/Screenshot (368).png">
-
- <img src="assets/Screenshot (369).png">
 
